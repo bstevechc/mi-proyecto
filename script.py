@@ -1,9 +1,10 @@
 # Script de prueba para Git
-# Autor: Chacon Bryan
+# Autor: Chacón Bryan
 # Fecha: 20-12-2020
 
-def main():
-    print("Hola Mundo UwU! ")
+ref main():
+    nombre = input("Cuál es tu nombre? ")
+    print("Hola", nombre, "Bienvenido a Git")
     
 if __name__ == "__main__":
     main()
